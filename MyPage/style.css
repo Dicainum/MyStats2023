@@ -1,0 +1,84 @@
+html{
+  font-size: 16px;
+  color: white;
+}
+
+header{
+  text-align: left;
+  font-size: 1.5rem;
+  font-weight: bold;
+padding-left: 30px;
+}
+
+p {
+  padding: 10px;
+  margin: 0;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+body{
+  background-image: url(https://propowerpoint.ru/fony/genshin/60.jpg);
+background-repeat: no-repeat;
+background-position: top center;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+h2 {
+padding-right: 40px;
+}
+
+.mainhead {
+  border-bottom: 2px solid white; 
+  text-align: center;
+}
+
+
+div { 
+position: relative;   top: 0px;  left: 0px;
+padding: 30px;
+border: 1px solid #ccc;  border-radius: 10px;
+transition: 0.7s;
+margin-top: 30px;
+font-size: 1.5em;
+}
+
+.second {
+margin-left: 5em;
+margin-top: 200px;
+width: 30rem;
+background-color: white;
+border-radius: 10px;
+opacity: 80%;
+position: relative;
+color: #3BA3D0;
+font-size: 1em;
+}
+
+.first {
+ margin-left: 5em;
+margin-top: 80px;
+width: 50rem;
+background-color: white;
+border-radius: 10px;
+opacity: 80%;
+position: relative;
+color: #3BA3D0;
+font-size: 1em;
+}
+
+.little {
+font-size: 0.8em;
+font-family: cursive;
+}
+
+.nothead {
+margin-top: 10rem;
+border-top: 2px solid white; 
+text-align: center;
+font-size: 16px;
+}
